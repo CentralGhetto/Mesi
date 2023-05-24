@@ -30,7 +30,7 @@ public class File1 {
                 break;
         case 10: f1.printGennaio(in); 
                 break;
-        case 11: f1.printGennaio(in); 
+        case 11: f1.printNovembre(in); 
                 break;
         case 12: f1.printGennaio(in); 
                 break;
